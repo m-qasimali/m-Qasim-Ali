@@ -28,7 +28,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Qasim-Ali-coder&label=Profile%20views&color=red&style=flat" alt="mqasim" /> </p>
 
-- 🔭 I’m currently studying BSCS at **COMSATS ISLAMABAD**
+- 🔭 Computer Science Student at **COMSATS ISLAMABAD**
 
 - 🌱 Lately, I'm learning **Django**
 
@@ -71,6 +71,9 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Qasim-Ali-coder&show_icons=true&theme=chartreuse-dark&line_height=30">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Qasim-Ali-coder&theme=chartreuse-dark">
+</p>
+<p align = "center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Qasim-Ali-coder&theme=chartreuse-dark" />
 </p>
 </details>
 
