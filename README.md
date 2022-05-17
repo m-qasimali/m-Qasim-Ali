@@ -1,7 +1,6 @@
 <h1 align="center">Hi �<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Muhammad Qasim Ali</h1>
 <h3 align="center">I am a Web Developer</h3>
-
-
+<p align="center"><img width="50%" height="50%" src="https://github.com/m-qasim-ali/m-Qasim-Ali/blob/main/programming_gif.gif" alt="gif"></p>
 <div align="center">
 <p align="center">Let's connect!</p>
 <a href="https://wa.link/y1ptzz">
@@ -27,6 +26,7 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-Qasim-Ali&label=Profile%20views&color=red&style=flat" alt="mqasim" /> </p>
+
 
 - 🔭 Computer Science Student at **COMSATS ISLAMABAD**
 
